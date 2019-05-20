@@ -1,6 +1,6 @@
 # wx_video_web
 
-> A Vue.js project
+>基于 vue2.x + element-ui 2.x 搭建的前端视频播放网站
 
 ## Build Setup
 
